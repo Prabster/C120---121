@@ -1,0 +1,43 @@
+  .heading {
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+    font-size: 30px;
+  }
+
+  .heading_div {
+    background: white;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px gray;
+    float: none;
+  }
+
+  .heading_div2 {
+    font-size: 18px;
+  }
+
+  .object, .accuracy {
+    width: 600px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+  }
+
+  .copy_right_footer {
+    background-color: gray;
+    font-size: 15px;
+    color: black;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+  }
+
+  canvas {
+    border: 5px dotted black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px black;
+  }
